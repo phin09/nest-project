@@ -3,3 +3,4 @@
 참고 자료  
 - [공식문서](https://docs.nestjs.com/)
 - [NestJS로 배우는 백엔드 프로그래밍](https://wikidocs.net/book/7059)
+- [쉽게 풀어 쓴 Nest.js](https://www.wisewiredbooks.com/nestjs/intro.html)
